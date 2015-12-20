@@ -1,6 +1,6 @@
 clear all; close all;clc;
 
-%% External commands
+%% External commands with imagemagick to convert pdf
 % convert -density 300 file.pdf in.png
 % convert out.png out.pdf
 
