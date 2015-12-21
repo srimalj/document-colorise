@@ -5,7 +5,8 @@ clear all; close all;clc;
 % convert out.png out.pdf
 
 %% Params
-color=[	85 107 47];
+% color=[	85 107 47];
+color=[	50 20 20];
 
 %%
 img = imread('in.png');
